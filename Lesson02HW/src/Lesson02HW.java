@@ -9,6 +9,7 @@ public class Lesson02HW {
     public static void main(String args []) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter student names (comma separated)");
+        // Example: Chris, Adrian, Dustin, Eddie, Derrick
         String s = scanner.nextLine();
         List<String> list = new ArrayList<String>(Arrays.asList(s.split(", ")));
         shuffleList(list);

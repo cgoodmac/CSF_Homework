@@ -14,7 +14,8 @@
     <file path="$USER_HOME$/CSF/practice/.idea/misc.xml" changelist="4a4a401c-f8a1-42c3-8825-81164ae94163" time="1372300569936" ignored="false" />
     <file path="$USER_HOME$/CSF/practice/.idea/workspace.xml" changelist="4a4a401c-f8a1-42c3-8825-81164ae94163" time="1372302645797" ignored="false" />
     <file path="$PROJECT_DIR$/../../Lesson02HW/src/Lesson02HW.java" changelist="4a4a401c-f8a1-42c3-8825-81164ae94163" time="1372711914398" ignored="false" />
-    <file path="/Lesson02HW.java" changelist="4a4a401c-f8a1-42c3-8825-81164ae94163" time="1372711910119" ignored="false" />
+    <file path="/Lesson02HW.java" changelist="4a4a401c-f8a1-42c3-8825-81164ae94163" time="1372712245829" ignored="false" />
+    <file path="$PROJECT_DIR$/../Lesson02HW/src/Lesson02HW.java" changelist="4a4a401c-f8a1-42c3-8825-81164ae94163" time="1372712284810" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +182,7 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lesson03" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lesson02HW" />
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
@@ -337,7 +338,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28787878" sideWeight="0.6581876" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28787878" sideWeight="0.6581876" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3418124" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
