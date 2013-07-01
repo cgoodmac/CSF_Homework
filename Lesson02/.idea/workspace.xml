@@ -98,7 +98,7 @@
       <file leaf-file-name="Lesson02Samples.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Lesson02Samples.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="24" selection-start="2303" selection-end="2303" vertical-scroll-proportion="1.9132653">
+            <state line="28" column="28" selection-start="828" selection-end="828" vertical-scroll-proportion="0.71428573">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -324,7 +324,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="640" height="774" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -338,7 +338,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28787878" sideWeight="0.6581876" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28787878" sideWeight="0.6581876" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3418124" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -445,7 +445,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson02Samples.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="24" selection-start="2303" selection-end="2303" vertical-scroll-proportion="1.9132653">
+        <state line="28" column="28" selection-start="828" selection-end="828" vertical-scroll-proportion="0.71428573">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
