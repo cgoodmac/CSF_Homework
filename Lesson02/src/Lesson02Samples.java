@@ -7,12 +7,13 @@ public class Lesson02Samples {
         // Call various other methods from here to run them
         //weirdLoop();
         //sort();
-        //allAs();
+//        allAs();
         //reverseNumbers();
         //reverseArray();
         //isGeneticSequence();
         //inputAndSearch();
         //calculator();
+
     }
 
 
